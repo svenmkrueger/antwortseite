@@ -6,7 +6,7 @@
  * ohnehin nie). Bei einer neuen Version die CACHE-Konstante hochzählen.
  * ========================================================================== */
 
-const CACHE = "antwortseite-v3";
+const CACHE = "antwortseite-v4";
 const DATEIEN = [
   "./",
   "./index.html",
