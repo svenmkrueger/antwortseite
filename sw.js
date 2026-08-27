@@ -6,7 +6,8 @@
  * ohnehin nie). Bei einer neuen Version die CACHE-Konstante hochzählen.
  * ========================================================================== */
 
-const CACHE = "antwortseite-v5";
+// Bei JEDEM Release zusammen mit SEITEN_VERSION in seite.js hochzählen.
+const CACHE = "antwortseite-v6";
 const DATEIEN = [
   "./",
   "./index.html",
