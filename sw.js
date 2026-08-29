@@ -7,7 +7,7 @@
  * ========================================================================== */
 
 // Bei JEDEM Release zusammen mit SEITEN_VERSION in seite.js hochzählen.
-const CACHE = "antwortseite-v9";
+const CACHE = "antwortseite-v10";
 const DATEIEN = [
   "./",
   "./index.html",
